@@ -1,3 +1,3 @@
-## Student at LAB University of Applied Sciences.
+## Hi there!
 
-Eero Lainepää
+Eero Lainepää, student at LAB University of Applied Sciences.
