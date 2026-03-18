@@ -4,7 +4,7 @@ I'm an **Information and Communication Technology student** (B.Eng) at LAB Unive
 
 I'm currently looking for opportunities to grow as an IT professional, specifically in networking, embedded systems, or software development.
 
-### My Technical Toolbox
+## Technologies & Tools
 
 - **Programming:** Python, C++, C#, JavaScript (testing)
 - **Web:** HTML, CSS
@@ -13,18 +13,23 @@ I'm currently looking for opportunities to grow as an IT professional, specifica
 - **DevOps & Infra:** Linux, Windows, Docker, virtualization, GitHub Actions (CI)
 - **Networking:** CCNA Intro, VLAN, firewalls, network monitoring (Zabbix)
 
-### Featured Projects
+## Featured Project
 
 #### [IoT Water Level Meter](https://github.com/eerolainepaa/IoT-Water-Surface-Level-Measurement-Pico-2-W-)
-A custom-built system using Raspberry Pi Pico to measure water level and read data on an LCD and a web interface.
+A self-designed end-to-end IoT project built with a Raspberry Pi Pico 2 W.
 
-#### [Software Testing & CI/CD](https://github.com/eerolainepaa/Software-Maintenance-and-Testing)
-Projects focused on QA, unit testing, and automating workflows using GitHub Actions.
+- Reads analog water level data via ADC (potentiometer)
+- Displays real-time measurements on a physical LCD screen
+- Serves a live web interface directly from the Pico (built-in HTTP server)
+- Modular MicroPython codebase with circuit diagram documentation
 
-### Background in Brief
-I have a solid work history in high-responsibility roles, including **Port Controller**. As a Port Controller, I managed security systems and maintenance, which provided a strong foundation for my transition into IT.
+## Other Repositories
 
----
+| Repository | Description | Tech |
+|---|---|---|
+| [Software-Maintenance-and-Testing](https://github.com/eerolainepaa/Software-Maintenance-and-Testing) | Unit tests, usability testing & CI pipeline with GitHub Actions | JavaScript, GitHub Actions |
+| [kpcase](https://github.com/eerolainepaa/kpcase) | Group project — Software Production & Architecture course | Agile, Git |
+| [iot-ohjelmointi-harjoitukset](https://github.com/eerolainepaa/iot-ohjelmointi-harjoitukset) | IoT exercises | C |
 
 ### Contact:
 *  [eero.lain@gmail.com](mailto:eero.lain@gmail.com)
