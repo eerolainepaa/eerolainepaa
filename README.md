@@ -27,8 +27,8 @@ A self-designed end-to-end IoT project built with a Raspberry Pi Pico 2 W.
 
 | Repository | Description | Tech |
 |---|---|---|
-| [Software-Maintenance-and-Testing](https://github.com/eerolainepaa/Software-Maintenance-and-Testing) | Unit tests, usability testing | JavaScript, GitHub Actions |
 | [CI/CD](https://github.com/eerolainepaa/CI-CD) | CI/CD, unit tests, bug fixing | JavaScript, GitHub Actions |
+| [Software-Maintenance-and-Testing](https://github.com/eerolainepaa/Software-Maintenance-and-Testing) | Unit tests, usability testing | JavaScript, GitHub Actions |
 | [iot-ohjelmointi-harjoitukset](https://github.com/eerolainepaa/iot-ohjelmointi-harjoitukset) | IoT exercises | C |
 
 ### Contact:
